@@ -1,0 +1,58 @@
+*{
+	box-sizing: border-box;
+}
+
+header,
+main {
+	width:700px;
+	margin:0 auto;
+}
+
+body {
+	font-family: Open Sans;
+	font: 16px sans-serif;
+	margin:0;
+	font-weight: 100;
+	background-color: #eee;
+}
+
+h1,h2
+{ 
+	font-weight: 100;
+	width: 100%;
+}
+
+h2 {
+	background-color: #FFF;
+	padding: 10px;
+	border-bottom: 3px solid #ccc;
+
+}
+
+
+li a {
+	text-decoration: none;
+	color: #000;
+}
+
+li {
+	line-height: 26px;
+}
+
+p {
+	text-align: justify;
+	line-height: 26px;
+}
+
+figure {
+	margin: 0px;
+	width: 100%;
+}
+
+figure img { 
+width: 100%; 
+height: auto;
+}
+
+
+
